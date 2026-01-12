@@ -1,5 +1,5 @@
 # Baggage Hustle
-
+Baggage Hustle is an interactive game that simulates real-life baggage screening mechanisms used at airports, railway stations, and other security checkpoints. Players must identify and filter out luggage containing prohibited items by analyzing realistic X-ray images.
 ## — A Baggage Screening Simulator —
 ## TEAM - MANDEM
 1. Nandakrishna Giri  
@@ -9,8 +9,6 @@
 ## Link to Build File
 [Build File](https://drive.google.com/drive/folders/17CPuz5Uz3OlIx8Y6NFSQqy0-M0PbKZmJ?usp=sharing)
 
-## Abstract
-Baggage Hustle is an interactive game that simulates real-life baggage screening mechanisms used at airports, railway stations, and other security checkpoints. Players must identify and filter out luggage containing prohibited items by analyzing realistic X-ray images.
 
 ## Introduction
 This game educates players on how X-ray scanning systems work, challenging them to efficiently distinguish between safe and flagged baggage.  
